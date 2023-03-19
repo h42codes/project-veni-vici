@@ -1,0 +1,34 @@
+.Gallery {
+  position: absolute;
+  /* top: 0;
+  bottom: 0; */
+  background-color: #394a51;
+  color: white;
+  /* padding: 10px; */
+
+  left: 0;
+  /* height: 800px; */
+  height: 70vh;
+  /* width: 260px; */
+  width: 20%;
+  display: flex;
+  overflow-y: scroll;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cat {
+  margin: 0;
+}
+
+.cat img {
+  margin: 0;
+  width: 50px;
+  height: 50px;
+  /* object-fit: cover; */
+}
+
+.cat p {
+  margin-top: 0;
+  font-size: 16px;
+}

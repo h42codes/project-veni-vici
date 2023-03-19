@@ -1,0 +1,18 @@
+img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 30px auto;
+  /* border-radius: 50%; */
+  border-radius: 6px;
+}
+
+.CatView {
+  margin: 20px auto;
+}
+
+.tag {
+  margin: 0 5px;
+  background-color: #7fa99b;
+  /* color: white; */
+}

@@ -1,0 +1,16 @@
+.Discover {
+  background-color: #fbf2d5;
+  /* background-color: #394a51; */
+  /* padding: 30px 120px; */
+  width: 700px;
+  height: 750px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.discover-btn {
+  margin-top: 0;
+}
